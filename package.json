@@ -10,7 +10,7 @@
   "engines": {
     "node": "8.11.2"
   },
-  "author": "Ricardo Masian Jr.",
+  "author": "T S Venkata Subramaniam",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^2.0.1",
