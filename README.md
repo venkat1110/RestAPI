@@ -25,7 +25,7 @@ This API can only be used locally where the users (librarian, employee, staff) h
 To get started, run this in your terminal: 
 
 ```
-> git clone https://github.com/rmasianjr/library-system-api.git
+> git clone https://github.com/venkat1110/RestAPI.git
 > cd library-system-api
 > npm install
 ```
@@ -132,4 +132,4 @@ To test the api, you can use [Postman](https://www.getpostman.com/) or simply ru
 
 ## Author
 
-[Ricardo Masian Jr.](https://github.com/rmasianjr)
+[Venkat](https://github.com/venkat1110/)
