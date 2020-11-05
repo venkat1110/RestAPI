@@ -1,4 +1,4 @@
-# library-system-api
+# RestAPI Lib-mgt-sys
 
   A simple NodeJs REST API for Library Management System.
 
